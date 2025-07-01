@@ -171,34 +171,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
   </table>
 </div>
 
-<details>
-  <summary><b>📂 Ver más proyectos</b></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="50%">
-          <h3 align="center">📱 Social Media Dashboard</h3>
-          <div align="center">
-            <a href="https://github.com/Bluexerry/social-dashboard" target="_blank">
-              <img src="https://dummyimage.com/600x300/e74c3c/ffffff&text=Social+Dashboard" width="100%" alt="Social Dashboard"/>
-            </a>
-            <p><strong>React, Redux, Chart.js</strong> - Dashboard para análisis de métricas de redes sociales</p>
-          </div>
-        </td>
-        <td width="50%">
-          <h3 align="center">🛠️ Developer Toolkit</h3>
-          <div align="center">
-            <a href="https://github.com/Bluexerry/dev-toolkit" target="_blank">
-              <img src="https://dummyimage.com/600x300/2ecc71/ffffff&text=Developer+Toolkit" width="100%" alt="Developer Toolkit"/>
-            </a>
-            <p><strong>TypeScript, React</strong> - Colección de herramientas para desarrolladores</p>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
 ## 🚀 Trayectoria y Metas
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="15%" />
