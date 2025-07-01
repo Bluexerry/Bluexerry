@@ -187,12 +187,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
 - Desarrollar una biblioteca de UI propia
 - Explorar tecnologías Web3
 
-## 🧠 Lo Que Me Inspira
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=💡+Resolver+problemas+complejos;📚+Aprendizaje+constante;🌟+Inspirar+a+otros+desarrolladores;🚀+Construir+el+futuro" />
-</div>
-
 ## 📬 Conecta Conmigo
 
 <div align="center">
