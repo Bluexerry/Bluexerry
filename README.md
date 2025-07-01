@@ -8,31 +8,30 @@
 
 <!-- REDES SOCIALES -->
 <div align="center">
+ <a href="mailto:jesusma33va@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/jes%C3%BAs-manuel-v%C3%A1zquez-herrera-8191462a3/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Bluexerry">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://tuportfolio.com">
+  <a href="https://portfolio-eight-murex-44.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://twitter.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Bluexerry&style=for-the-badge&color=blueviolet" />
 </div>
 
 ## 📖 Sobre Mí
 
-Soy un apasionado desarrollador de software con experiencia creando soluciones digitales elegantes y eficientes. Nacido en Málaga, mi fascinación por la tecnología comenzó cuando desmonté mi primer ordenador a los 12 años, ¡y he estado construyendo cosas desde entonces!
+Soy un apasionado desarrollador de software con experiencia creando soluciones digitales elegantes y eficientes. Nacido en Sevilla, mi fascinación por la tecnología comenzó poco a poco desde los 12 años trasteando con ordenadores hasta dar el paso a la programación a los 20, ¡y he estado construyendo cosas desde entonces!
 
 **Profesionalmente:**
 
-- 💻 Desarrollador Full-Stack especializado en JavaScript
-- 🤖 Experto en automatización de procesos
-- 📊 Analista e integrador de datos
-- 🧩 Solucionador creativo de problemas complejos
+- 💻 Desarrollador Full-Stack con enfoque en JavaScript
+- 🤖 Técnico con experiencia en automatización de procesos
+- 📊 Interesado en el análisis e integración de datos
+- 🧩 Con gusto por encontrar soluciones creativas a problemas complejos
 
 **Mi filosofía:** Crear código limpio y optimizado mientras aprendo constantemente.
 
@@ -40,14 +39,11 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
 
 > "La programación combina ciencia y arte: la lógica de resolver problemas con la creatividad de construir algo nuevo"
 
-- 🎸 Toco la guitarra en mis ratos libres
-- 🏄‍♂️ Surfista aficionado cuando el tiempo lo permite
-- 📚 Lector voraz, especialmente ciencia ficción y filosofía
+- 📚 Lector voraz, especialmente con mangas y libros inspiradores
 - 🏕️ Amante de las excursiones y la naturaleza
 - 🎮 Gamer estratégico en mis momentos de desconexión
-- 🧘‍♂️ Practicante de mindfulness para mantener el equilibrio
 
-**Dato curioso:** Una vez programé durante 36 horas seguidas para ganar un hackathon local. Mi secreto fue una combinación de pasión, cafeína y música electrónica. ¡Funcionó! Ganamos el primer premio.
+Dato curioso: Una vez pasé horas afinando automatizaciones y scripts para resolver un problema que nadie quería tocar. No fue en un hackathon, pero se sintió como uno. ¿Mi combo secreto? Curiosidad, algo de café… y cero mindfulness.
 
 <!-- SEPARADOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -73,7 +69,7 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
         <td>Frontend</td>
         <td>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Vite-4FC08D?style=flat-square&logo=vite.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         </td>
       </tr>
@@ -108,19 +104,10 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
 ### 💻 Lenguajes
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🚀 Frameworks y Librerías
-
-  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-  
 ### 🗄️ Bases de Datos
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -136,19 +123,19 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
       <td width="50%">
         <h3 align="center">🌟 E-Commerce Platform</h3>
         <div align="center">
-          <a href="https://github.com/Bluexerry/ecommerce-platform" target="_blank">
+          <a href="https://user-shop-frontend.vercel.app/" target="_blank">
             <img src="https://dummyimage.com/600x300/3498db/ffffff&text=E-Commerce+App" width="100%" alt="E-Commerce App"/>
           </a>
           <p><strong>React, Node.js, MongoDB, Stripe</strong> - Plataforma completa de e-commerce con carrito, pagos y panel admin</p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🤖 Automation Suite</h3>
+        <h3 align="center">🤖 Portfolio Personal</h3>
         <div align="center">
-          <a href="https://github.com/Bluexerry/automation-suite" target="_blank">
-            <img src="https://dummyimage.com/600x300/9b59b6/ffffff&text=Automation+Suite" width="100%" alt="Automation Suite"/>
+          <a href="https://portfolio-eight-murex-44.vercel.app/" target="_blank">
+            <img src="https://dummyimage.com/600x300/9b59b6/ffffff&text=Portofolio" width="100%" alt="Portfolio Personal"/>
           </a>
-          <p><strong>Python, Selenium, APIs</strong> - Herramientas para automatizar tareas repetitivas y web scraping</p>
+          <p><strong>React, Vite, Tailwind, Nodemailer</strong> - Proyecto personal enfocado en mi perfil profesional</p>
         </div>
       </td>
     </tr>
@@ -167,14 +154,14 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
 
 ### 🔭 Próximos objetivos
 
-- Contribuir a proyectos Open Source de alto impacto
+- Contribuir a proyectos Open Source
 - Desarrollar una biblioteca de UI propia
 - Explorar tecnologías Web3
 
 ## 📬 Conecta Conmigo
 
 <div align="center">
-  <a href="mailto:tu.email@ejemplo.com">
+  <a href="mailto:jesusma33va@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jes%C3%BAs-manuel-v%C3%A1zquez-herrera-8191462a3/">
@@ -183,7 +170,7 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
   <a href="https://github.com/Bluexerry">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://tuportfolio.com">
+  <a href="https://portfolio-eight-murex-44.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white" />
   </a>
 </div>
