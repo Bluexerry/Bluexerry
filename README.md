@@ -68,7 +68,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
       <tr>
         <th>Categoría</th>
         <th>Tecnologías</th>
-        <th>Nivel</th>
       </tr>
       <tr>
         <td>Frontend</td>
@@ -76,9 +75,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        </td>
-        <td>
-          <img src="https://progress-bar.dev/90/" />
         </td>
       </tr>
       <tr>
@@ -88,9 +84,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         </td>
-        <td>
-          <img src="https://progress-bar.dev/85/" />
-        </td>
       </tr>
       <tr>
         <td>Bases de Datos</td>
@@ -99,9 +92,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
         </td>
-        <td>
-          <img src="https://progress-bar.dev/80/" />
-        </td>
       </tr>
       <tr>
         <td>DevOps</td>
@@ -109,9 +99,6 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
           <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-        </td>
-        <td>
-          <img src="https://progress-bar.dev/75/" />
         </td>
       </tr>
     </table>
