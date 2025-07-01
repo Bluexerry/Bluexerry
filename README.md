@@ -2,9 +2,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,20&height=300&section=header&text=Jesús%20Manuel%20Vázquez%20Herrera&fontSize=40&fontAlignY=35&desc=🚀%20Desarrollador%20Full%20Stack%20|%20🤖%20Automatización%20|%20💡%20Innovación&descAlignY=55&animation=twinkling"/>
   
-  <!-- BANNERS ANIMADOS -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🌟+Desarrollo+Web+Completo;🔮+Automatización+Inteligente;🎨+Soluciones+Creativas;🧠+Clean+Code+Enthusiast;📚+Aprendizaje+Continuo" />
-  
   <!-- MATRIZ BINARIA -->
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=12&pause=100&color=00FF00&background=000000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=01101000+01100101+01101100+01101100+01101111;01110111+01101111+01110010+01101100+01100100;Welcome+to+my+digital+universe..." />
 </div>
