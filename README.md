@@ -42,6 +42,7 @@ Soy un apasionado desarrollador de software con experiencia creando soluciones d
 - 📚 Lector voraz, especialmente con mangas y libros inspiradores
 - 🏕️ Amante de las excursiones y la naturaleza
 - 🎮 Gamer estratégico en mis momentos de desconexión
+- 💪🏻 Gymbro enfermo
 
 Dato curioso: Una vez pasé horas afinando automatizaciones y scripts para resolver un problema que nadie quería tocar. No fue en un hackathon, pero se sintió como uno. ¿Mi combo secreto? Curiosidad, algo de café… y cero mindfulness.
 
